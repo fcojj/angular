@@ -1,0 +1,4 @@
+#instalando compitador typescript pasta do projeto
+instala o node->entra na pasta  
+npm init
+npm install typescript@2.3.2 --save-dev

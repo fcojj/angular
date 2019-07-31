@@ -1,0 +1,13 @@
+//configuração  do  compilador
+{
+    "compilerOptions": {
+        //sera traduzido para qual versão activescript
+        "target": "es6",
+        //saida da compilação
+        "outDir": "app/js"
+    },
+    "include": [
+        //arquivos que o compilador vai monitorar
+        "app/ts/**/*"
+    ]
+}
